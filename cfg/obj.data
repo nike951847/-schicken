@@ -1,0 +1,9 @@
+classes= 2
+
+train  = schicken/cfg/train.txt
+
+valid  = schicken/cfg/test.txt
+
+names = schicken/obj.names
+
+backup = schicken/cfg/weights/
